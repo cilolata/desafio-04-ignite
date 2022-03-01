@@ -1,0 +1,20 @@
+{
+  "foods": [
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fs2.glbimg.com%2F6af6YVkADRZAC9sLVFOM6mH8Jt4%3D%2F0x0%3A1920x1280%2F984x0%2Fsmart%2Ffilters%3Astrip_icc()%2Fi.s3.glbimg.com%2Fv1%2FAUTH_e84042ef78cb4708aeebdf1c68c6cbd6%2Finternal_photos%2Fbs%2F2020%2FO%2F8%2FqNYHfAQhK8YIjBGViedA%2Fpasta-1463930-1920.jpg&imgrefurl=https%3A%2F%2Freceitas.globo.com%2Fmacarrao-simples-4dfa24dbd7001a3f8d0021ce.ghtml&tbnid=3ZkewqOR1w62xM&vet=12ahUKEwjx_Ny046X2AhXyAtQKHWrIApUQMygAegUIARD4AQ..i&docid=UoyRz-WIeIFfSM&w=984&h=656&q=macarr%C3%A3o&ved=2ahUKEwjx_Ny046X2AhXyAtQKHWrIApUQMygAegUIARD4AQ",
+      "name": "macarrão",
+      "price": "20.00",
+      "description": "macarrão ao sugo",
+      "available": true,
+      "id": 4
+    }
+  ]
+}
